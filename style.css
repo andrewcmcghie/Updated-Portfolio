@@ -5,17 +5,17 @@
 }
 
 html, body {
-    background: #f85032;
+    background: #8f66c5;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #e73827, #f85032);
+    background: -webkit-linear-gradient(to left, #8f66c5, #8f66c5);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #e73827, #f85032);
+    background: linear-gradient(to left, #8f66c5, #8f66c5);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     height: 100%;
 }
 
 h1 {
-    font-family: "Patua One", sans-serif;
+    font-family: "Comic Sans", sans-serif;
     color: white;
 }
 
@@ -76,7 +76,7 @@ a:hover {
 i.fab,
 i.fas,
 a {
-    color: #f85032;
+    color:  #8f66c5;
 }
 
 .wrapper {
@@ -99,7 +99,7 @@ a {
 
 
 .share > button {
-    background-color: #f85032;
+    background-color: rgba(255, 255, 0, 0.767);
     border-radius: 5px;
     border: 2px solid white;
     padding: 10px;
@@ -108,17 +108,17 @@ a {
 }
 
 .share > button > a {
-    color: #fff;
+    color: rgb(5, 5, 5);
 }
 
 i.fa-envelope:before {
-    color: #fff;
+    color: rgb(5, 5, 5);
 }
 
 i.fa-linkedin:before {
-    color: white;
+    color: rgb(5, 5, 5);
 }
 
 i.fa-github:before {
-    color: white;
+    color: rgb(5, 5, 5);
 }
